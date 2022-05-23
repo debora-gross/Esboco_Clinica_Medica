@@ -3,6 +3,8 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+Clinica_Medica/DAL/BaseDAL.cs
+
 # User-specific files
 *.rsuser
 *.suo
